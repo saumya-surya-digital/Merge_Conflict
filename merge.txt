@@ -1,1 +1,2 @@
 To show an example of merge conflict.
+Changes made again.
